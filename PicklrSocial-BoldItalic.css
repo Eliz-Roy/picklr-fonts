@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Picklr Social';
+  src: url('https://cdn.jsdelivr.net/gh/Eliz-Roy/picklr-fonts/PicklrSocial-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
